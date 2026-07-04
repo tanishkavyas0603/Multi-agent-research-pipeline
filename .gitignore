@@ -1,15 +1,12 @@
 .env
 
-__pycache__/
-
+venv/
 .venv/
 
-venv/
-
+__pycache__/
 *.pyc
 
 .streamlit/
 
-.idea/
-
 .vscode/
+.idea/
