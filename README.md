@@ -1,3 +1,15 @@
+---
+title: Multi Agent Research Pipeline
+emoji: 🚀
+colorFrom: red
+colorTo: red
+sdk: streamlit
+sdk_version: "1.58.0"
+app_file: app.py
+pinned: false
+license: mit
+---
+
 live link: https://tanishka06vyas-multi-agent-research-pipeline.hf.space/
 🤖 Multi-Agent Research Pipeline
 📌 Overview
